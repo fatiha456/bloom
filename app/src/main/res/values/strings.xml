@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bloom</string>
+    <string name="splash_tagline">A soft place for your day</string>
+    <string name="splash_logo_description">Bloom logo</string>
+    <string name="login_title">Welcome back</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="login_button">Log in</string>
+    <string name="login_no_account">Don\'t have an account?</string>
+    <string name="login_sign_up">Sign up</string>
+    <string name="home_title">Welcome to Bloom</string>
+    <string name="signup_title">Create account</string>
+    <string name="signup_subtitle">A soft place starts here</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="signup_button">Sign up</string>
+    <string name="signup_or">or</string>
+    <string name="signup_google">Continue with Google</string>
+    <string name="signup_have_account">Already have an account?</string>
+    <string name="signup_log_in">Log in</string>
+</resources>

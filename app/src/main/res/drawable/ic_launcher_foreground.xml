@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Soft disc behind the flower. Stays inside the area phones will not crop. -->
+    <path
+        android:fillColor="@color/petal"
+        android:pathData="M22,54 a32,32 0 1,0 64,0 a32,32 0 1,0 -64,0z" />
+
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="0">
+        <path
+            android:fillColor="@color/rose"
+            android:pathData="M54,26 C46,30 38,40 40,48 C42,56 49,58 54,52 C59,58 66,56 68,48 C70,40 62,30 54,26z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="72">
+        <path
+            android:fillColor="@color/rose"
+            android:pathData="M54,26 C46,30 38,40 40,48 C42,56 49,58 54,52 C59,58 66,56 68,48 C70,40 62,30 54,26z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="144">
+        <path
+            android:fillColor="@color/rose"
+            android:pathData="M54,26 C46,30 38,40 40,48 C42,56 49,58 54,52 C59,58 66,56 68,48 C70,40 62,30 54,26z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="216">
+        <path
+            android:fillColor="@color/rose"
+            android:pathData="M54,26 C46,30 38,40 40,48 C42,56 49,58 54,52 C59,58 66,56 68,48 C70,40 62,30 54,26z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="288">
+        <path
+            android:fillColor="@color/rose"
+            android:pathData="M54,26 C46,30 38,40 40,48 C42,56 49,58 54,52 C59,58 66,56 68,48 C70,40 62,30 54,26z" />
+    </group>
+
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M42,54 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0z" />
+    <path
+        android:fillColor="@color/plum"
+        android:pathData="M48,54 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0z" />
+</vector>

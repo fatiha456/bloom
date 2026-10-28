@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/splashRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/anyaanother"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="42dp">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="451dp"
+        android:layout_marginTop="4dp"
+        android:fontFamily="serif"
+        android:letterSpacing="0.13"
+        android:text=" anya's  mission"
+        android:textColor="@color/white"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+
+
+    <TextView
+        android:layout_width="312dp"
+        android:layout_height="match_parent"
+        android:layout_marginTop="16dp"
+        android:fontFamily="sans-serif"
+        android:gravity="bottom|end"
+        android:letterSpacing="0.04"
+        android:text="waku waku today's mission have fun"
+        android:textColor="@color/white"
+        android:textSize="31sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

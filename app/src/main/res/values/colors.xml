@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blush">#FFFFF1F4</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="rose">#FFE75480</color>
+    <color name="rose_dark">#FFC73B68</color>
+    <color name="petal">#FFF8D0DC</color>
+    <color name="plum">#FF3A2030</color>
+    <color name="mauve">#FF8C6A76</color>
+</resources>
